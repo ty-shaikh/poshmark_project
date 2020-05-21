@@ -1,9 +1,9 @@
-# Scraping Poshmark Webinar
+# Poshmark Project
 
-These code files are for a webinar I gave about web scraping using Poshmark listings.
+Analyzing Poshmark listings to practice data engineering and science skills.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ty-shaikh/scraping_poshmark_webinar/master?filepath=scraping_poshmark_listings.ipynb)
+Check out sub-folders `mvp` and `production` to see the pipelines I built.
 
-## Resources
+MVP is the intial work done in Jupyter notebooks
 
-- [Changing font sizes](https://github.com/jupyter/notebook/issues/2889)
+Production is the second pass while making the work more modular.
